@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" href="./favicons/favicon-16x16.png">
+  <link rel="stylesheet" href="./css/style.css">
+
+  <script defer src="./js/script.js"></script>
+
+  <title>Pokédex</title>
+</head>
+
+<body style="background: url('images/bg.png') no-repeat center center fixed; background-size: cover;">
+    
+  
+  <img src="images/dankedex.png" alt="DankédexLogo" height="150px">
+  <p class="inicio">Conheça todos os Pokémon neste projeto de Pokédex criado por <a href="https://github.com/danieldemac">Daniel Cabral</a>.</p>
+  <main>
+    <img src="images/red.gif" alt="luz_vermelha" class="luz_vermelha">
+    <img src="#" alt="pokemon" class="pokemon__image">
+
+    <h1 class="pokemon__data">
+      <span class="pokemon__number"></span> -
+      <span class="pokemon__name"></span>
+    </h1>
+
+    <form class="form">
+      <input
+        type="search"
+        class="input__search"
+        placeholder="Name or Number"
+        required
+      />
+    </form>
+
+    <div class="buttons">
+      <button class="button btn-prev">Prev &lt;</button>
+      <button class="button btn-next">Next &gt;</button>
+    </div>
+
+    <img src="./images/pokedex.png" alt="pokedex" class="pokedex">
+
+  </main>
+
+</body>
+
+</html>
