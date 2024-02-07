@@ -1,4 +1,5 @@
-# Dankédex - Pokédex Interativa
+# Dankédex - Pokédex Interativa <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-pokemon-16.png">
+
 <div style="text-align: center;">
   <img src="images/tela.png" alt="Dankédex Logo" heith="150px">
 </div>
