@@ -1,6 +1,6 @@
 # Dankédex - Pokédex Interativa 
 
-<div style="text-align: center;"> <img width="25" height="25" src="https://img.icons8.com/water-color/50/pokeball.png" alt="millenium-eye"/><
+<div style="text-align: center;"> 
   <img src="images/tela.png" alt="Dankédex Logo" heith="150px">
 </div>
 
