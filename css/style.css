@@ -26,6 +26,11 @@ body {
   margin: 0 auto; 
 }
 
+.logo{
+  width: 100%;
+  max-width: 425px;
+}
+
 main {
   display: inline-block;
   margin-top: 2%;
