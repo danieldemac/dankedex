@@ -1,4 +1,4 @@
-# Dankédex - Pokédex Interativa 
+# Dankédex - Pokédex Interativa <img width="48" height="48" src="https://img.icons8.com/color/48/pokeball-2.png" alt="pokeball-2"/>
 
 <div style="text-align: center;"> 
   <img src="images/tela.png" alt="Dankédex Logo" heith="150px">
