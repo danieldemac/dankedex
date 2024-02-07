@@ -1,4 +1,4 @@
-<div style="text-align: center;"> 
+<div> 
   <img width="16" height="16" src="https://img.icons8.com/color/48/pokeball-2.png" alt="pokeball-2"/> <h1>Dankédex - Pokédex Interativa</h1> <img width="16" height="16" src="https://img.icons8.com/color/48/pokeball-2.png" alt="pokeball-2"/> 
 </div>
 
