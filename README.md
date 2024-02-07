@@ -1,6 +1,6 @@
 # Dankédex - Pokédex Interativa
 <div style="text-align: center;">
-  <img src="images/tela.png" alt="Dankédex Logo">
+  <img src="images/tela.png" alt="Dankédex Logo" heith="150px">
 </div>
 
 Bem-vindo ao repositório Dankédex, um projeto de Pokédex interativa desenvolvida por Daniel de Macedo. Esta aplicação permite explorar e visualizar informações sobre os Pokémon, seja digitando o número ou o nome deles.
