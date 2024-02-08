@@ -52,12 +52,36 @@ main {
 
 }
 
+.luz_azul{
+  position: absolute;
+  top: 1.12%;
+  left: 22.3%;
+  transform: translate(-63%, 20%);
+  height: 12%;
+  opacity: 0.6;
+}
+
 .luz_vermelha{
   position: absolute;
   top: 3%;
   left: 32.5%;
   transform: translate(-63%, 20%);
   height: 3.5%;
+}
+
+.miniluz_vermelha1{
+  position: absolute;
+  top: 23.8%;
+  left: 49.8%;
+  transform: translate(-63%, 20%);
+  height: 2%;
+}
+.miniluz_vermelha2{
+  position: absolute;
+  top: 23.8%;
+  left: 42.8%;
+  transform: translate(-63%, 20%);
+  height: 2%;
 }
 
 .pokemon__data {
