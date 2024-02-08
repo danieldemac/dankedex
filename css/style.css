@@ -52,6 +52,24 @@ main {
 
 }
 
+.pokemon__type{
+  position: absolute;
+  bottom: 65%;
+  left: 60%;
+  transform: translate(-63%, 20%);
+  height: 6%;
+
+}
+
+.pokemon__sectype {
+  position: absolute;
+  bottom: 65%;
+  left: 70%;
+  transform: translate(-63%, 20%);
+  height: 6%;
+
+}
+
 .luz_azul{
   position: absolute;
   top: 1.12%;
