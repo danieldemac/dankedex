@@ -179,6 +179,8 @@ const renderPokemon = async (pokemon) => {
     pokemonImage.src ='images/missingno.png';
     pokemonName.innerHTML = 'MissingNo';
     pokemonNumber.innerHTML = 'ERROR';
+    pokemonType.src ='images/Types/Semtipo.png'
+    pokemonSecType.src ='images/Types/Nadia.png'
   }
 }
 
