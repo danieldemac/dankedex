@@ -49,7 +49,6 @@ const renderPokemon = async (pokemon) => {
     
       if (data['types'].length === 1){
         //TIPO1
-      console.log(pokemonTipo1);
       if(data['types'][0]['type']['name'] === 'grass'){
         pokemonType.src ='images/Types/Grass.png';
       } else if (data['types'][0]['type']['name'] === 'fire') {
@@ -96,7 +95,6 @@ const renderPokemon = async (pokemon) => {
       if (data['types'].length > 1){
 
         //TIPO1
-      console.log(pokemonTipo1);
       if(data['types'][0]['type']['name'] === 'grass'){
         pokemonType.src ='images/Types/Grass.png';
       } else if (data['types'][0]['type']['name'] === 'fire') {
@@ -136,7 +134,6 @@ const renderPokemon = async (pokemon) => {
       } 
       
         pokemonTipo2 = data['types'][1]['type']['name'];
-        console.log(pokemonTipo2);
         //TIPO2
         if(data['types'][1]['type']['name'] === 'grass'){
           pokemonSecType.src ='images/Types/Grass.png';
