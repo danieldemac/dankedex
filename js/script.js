@@ -29,7 +29,7 @@ const renderPokemon = async (pokemon) => {
 
   pokemonName.innerHTML = 'Loading...'; 
   pokemonNumber.innerHTML = '--';
-  pokemonLoading.src ='images/glow.gif';
+  pokemonLoading.src ='images/glow2.gif';
   pokemonType.src ='images/Types/Nadia.png';
   pokemonSecType.src ='images/Types/Nadia.png';
   pokemonImage.src ='images/Types/Nadia.png';
