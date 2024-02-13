@@ -1,6 +1,6 @@
-<div style="text-align: center;"> 
-   <h1><img width="20" height="20" src="https://img.icons8.com/color/48/pokeball-2.png" alt="pokeball-2"/>Dankédex - Pokédex Interativa<img width="20" height="20" src="https://img.icons8.com/color/48/pokeball-2.png" alt="pokeball-2"/></h1> 
-</div>
+
+   <h1 align="center"><img width="20" height="20" src="https://img.icons8.com/color/48/pokeball-2.png" alt="pokeball-2"/>Dankédex - Pokédex Interativa<img width="20" height="20" src="https://img.icons8.com/color/48/pokeball-2.png" alt="pokeball-2"/></h1> 
+
 
 <div style="text-align: center;"> 
   <img src="images/tela.png" alt="Dankédex Logo" heith="150px">
