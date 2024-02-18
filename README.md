@@ -11,8 +11,8 @@ Bem-vindo ao repositório Dankédex, um projeto de uma Pokédex interativa desen
 ## Funcionalidades Principais
 
 1. **Pesquisa por Número ou Nome:** Digite o número ou o nome do Pokémon desejado para visualizar suas informações.
-
 2. **Visualização de Imagens:** A Dankédex oferece a capacidade de visualizar imagens dos Pokémon, proporcionando uma experiência visual rica.
+3. **Adição dos Tipos:** Agora a Dankédex mostra o tipo de cada Pokemon na tela.
 
 ## Estrutura do Projeto
 
