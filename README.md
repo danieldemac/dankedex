@@ -33,6 +33,6 @@ Se você deseja contribuir para o desenvolvimento da Dankédex, sinta-se à vont
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/danieldemac/Pokedex_Dankedex.git
+   git clone https://github.com/danieldemac/dankedex.git
 
 Abra o arquivo index.html no seu navegador ou configure um servidor local para testar a aplicação.
